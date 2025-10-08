@@ -1,0 +1,13 @@
+# data & models
+data/raw/*
+data/processed/*
+models/*
+reports/figures/*
+reports/metrics.json
+
+# env & cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
